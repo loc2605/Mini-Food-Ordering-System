@@ -255,8 +255,8 @@ const CheckoutForm = () => {
       <footer className="w-full py-12 mt-auto bg-gray-50 dark:bg-gray-950 border-t border-gray-200 dark:border-gray-800">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-7xl mx-auto px-6 text-center md:text-left">
           <div>
-            <span className="text-xl font-bold text-gray-900 dark:text-white">MiniFood</span>
-            <p className="mt-4 font-['Be_Vietnam_Pro'] text-sm leading-relaxed text-gray-500 dark:text-gray-400">© 2026 MiniFood. Năng lượng cho ngày làm việc.</p>
+            <span className="text-xl font-bold text-gray-900 dark:text-white">minifood</span>
+            <p className="mt-4 font-['Be_Vietnam_Pro'] text-sm leading-relaxed text-gray-500 dark:text-gray-400">© 2026 minifood. Năng lượng cho ngày làm việc.</p>
           </div>
           <div className="flex flex-wrap justify-center md:justify-end gap-6">
             <a className="text-gray-500 dark:text-gray-400 hover:text-orange-500 hover:underline decoration-orange-500 underline-offset-4 transition-all" href="#">Về chúng tôi</a>
@@ -276,7 +276,7 @@ const CheckoutForm = () => {
             </div>
             <h2 className="text-2xl font-bold text-on-surface mb-2">Đặt hàng thành công!</h2>
             <p className="text-on-surface-variant mb-6">
-              Mã đơn hàng của bạn là <span className="font-bold text-primary">#FOOD-1024</span>. Nhân viên MiniFood sẽ giao hàng cho bạn trong chốc lát.
+              Mã đơn hàng của bạn là <span className="font-bold text-primary">#FOOD-1024</span>. Nhân viên minifood sẽ giao hàng cho bạn trong chốc lát.
             </p>
             <div className="space-y-3">
               <button className="w-full py-4 bg-primary-container text-white rounded-xl font-bold hover:brightness-110 transition-all">

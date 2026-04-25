@@ -55,7 +55,7 @@ const CartPage = () => {
         <footer className="bg-gray-50 dark:bg-gray-950 border-t border-gray-200 dark:border-gray-800 mt-auto">
           <div className="w-full py-8 px-6 flex flex-col md:flex-row justify-between items-center max-w-7xl mx-auto gap-4">
             <div className="flex flex-col md:flex-row items-center gap-6">
-              <span className="font-bold text-gray-700 dark:text-gray-300">MiniFood</span>
+              <span className="font-bold text-gray-700 dark:text-gray-300">minifood</span>
               <div className="flex gap-4 font-be-vietnam-pro text-xs text-gray-500 dark:text-gray-400">
                 <a className="hover:text-gray-900 dark:hover:text-gray-100 transition-opacity duration-200 hover:opacity-80 inline-block py-1" href="#">Support</a>
                 <a className="hover:text-gray-900 dark:hover:text-gray-100 transition-opacity duration-200 hover:opacity-80 inline-block py-1" href="#">Privacy Policy</a>
@@ -63,7 +63,7 @@ const CartPage = () => {
                 <a className="hover:text-gray-900 dark:hover:text-gray-100 transition-opacity duration-200 hover:opacity-80 inline-block py-1" href="#">Contact Kitchen</a>
               </div>
             </div>
-            <p className="font-be-vietnam-pro text-xs text-gray-500 dark:text-gray-400">© 2026 MiniFood Internal. All rights reserved.</p>
+            <p className="font-be-vietnam-pro text-xs text-gray-500 dark:text-gray-400">© 2026 minifood. All rights reserved.</p>
           </div>
         </footer>
       </div>
@@ -237,7 +237,7 @@ const CartPage = () => {
       <footer className="bg-gray-50 dark:bg-gray-950 border-t border-gray-200 dark:border-gray-800 mt-auto">
         <div className="w-full py-8 px-6 flex flex-col md:flex-row justify-between items-center max-w-7xl mx-auto gap-4">
           <div className="flex flex-col md:flex-row items-center gap-6">
-            <span className="font-bold text-gray-700 dark:text-gray-300">MiniFood</span>
+            <span className="font-bold text-gray-700 dark:text-gray-300">minifood</span>
             <div className="flex gap-4 font-be-vietnam-pro text-xs text-gray-500 dark:text-gray-400">
               <a className="hover:text-gray-900 dark:hover:text-gray-100 transition-opacity duration-200 hover:opacity-80 inline-block py-1" href="#">Support</a>
               <a className="hover:text-gray-900 dark:hover:text-gray-100 transition-opacity duration-200 hover:opacity-80 inline-block py-1" href="#">Privacy Policy</a>
@@ -245,7 +245,7 @@ const CartPage = () => {
               <a className="hover:text-gray-900 dark:hover:text-gray-100 transition-opacity duration-200 hover:opacity-80 inline-block py-1" href="#">Contact Kitchen</a>
             </div>
           </div>
-          <p className="font-be-vietnam-pro text-xs text-gray-500 dark:text-gray-400">© 2026 MiniFood Internal. All rights reserved.</p>
+          <p className="font-be-vietnam-pro text-xs text-gray-500 dark:text-gray-400">© 2026 minifood. All rights reserved.</p>
         </div>
       </footer>
     </div>
@@ -253,3 +253,4 @@ const CartPage = () => {
 };
 
 export default CartPage;
+

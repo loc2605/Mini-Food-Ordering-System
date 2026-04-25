@@ -25,7 +25,7 @@ const LoginPage = () => {
         <div className="relative z-10">
           <div className="flex items-center gap-2 mb-6">
             <span className="material-symbols-outlined text-primary-container text-4xl" style={{ fontVariationSettings: "'FILL' 1" }}>restaurant_menu</span>
-            <span className="text-2xl font-black tracking-tighter text-orange-600">MiniFood</span>
+            <span className="text-2xl font-black tracking-tighter text-orange-600">minifood</span>
           </div>
           <h1 className="text-5xl font-black text-on-primary-fixed mb-4 leading-tight">Đặt món nhanh cho nhân viên</h1>
           <p className="text-lg text-on-primary-fixed-variant mb-8 max-w-xl">
@@ -64,7 +64,7 @@ const LoginPage = () => {
         <div className="w-full max-w-md h-full flex flex-col justify-center">
           <div className="md:hidden flex items-center justify-center gap-2 mb-8">
             <span className="material-symbols-outlined text-primary-container text-3xl" style={{ fontVariationSettings: "'FILL' 1" }}>restaurant_menu</span>
-            <span className="text-xl font-black tracking-tighter text-orange-600">MiniFood</span>
+            <span className="text-xl font-black tracking-tighter text-orange-600">minifood</span>
           </div>
           <div className="bg-white p-8 md:p-10 rounded-3xl shadow-[0_4px_20px_rgba(0,0,0,0.05)] border border-gray-100">
             <div className="text-center md:text-left mb-8">
@@ -140,7 +140,7 @@ const LoginPage = () => {
             </p>
           </div>
           <div className="mt-8 text-center">
-            <p className="text-xs text-on-surface-variant/60">© 2026 MiniFood. Năng lượng cho ngày làm việc.</p>
+            <p className="text-xs text-on-surface-variant/60">© 2026 minifood. Năng lượng cho ngày làm việc.</p>
           </div>
         </div>
       </section>

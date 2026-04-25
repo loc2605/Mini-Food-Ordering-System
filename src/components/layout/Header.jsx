@@ -40,7 +40,7 @@ const Header = ({ currentPage = 'home' }) => {
     <header className="bg-white dark:bg-gray-950 border-b border-gray-100 dark:border-gray-800 shadow-sm sticky top-0 z-50">
       <div className="flex justify-between items-center w-full px-6 py-3 max-w-7xl mx-auto">
         <div className="flex items-center gap-6">
-          <span className="text-2xl font-black text-orange-600 dark:text-orange-500 font-h1 cursor-pointer" onClick={() => navigate('/')}>MiniFood</span>
+          <span className="text-2xl font-black text-orange-600 dark:text-orange-500 font-h1 cursor-pointer" onClick={() => navigate('/')}>minifood</span>
           {currentPage !== 'checkout' && (
             <div className="hidden md:flex items-center bg-gray-100 rounded-full px-4 py-2 w-96 border border-transparent focus-within:border-orange-600 transition-all">
               <span className="material-symbols-outlined text-gray-500 mr-2">search</span>

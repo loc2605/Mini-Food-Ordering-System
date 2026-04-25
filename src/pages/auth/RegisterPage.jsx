@@ -47,7 +47,7 @@ const RegisterPage = () => {
           <div className="space-y-6">
             <div className="flex items-center space-x-3">
               <span className="material-symbols-outlined text-orange-600 text-4xl" style={{ fontVariationSettings: "'FILL' 1" }}>restaurant_menu</span>
-              <span className="text-3xl font-black tracking-tighter text-orange-600">MiniFood</span>
+              <span className="text-3xl font-black tracking-tighter text-orange-600">minifood</span>
             </div>
             <h1 className="text-5xl font-black leading-tight text-on-background">
               Tạo tài khoản để <br />
@@ -92,7 +92,7 @@ const RegisterPage = () => {
             <div className="mb-8 lg:mb-10">
               <div className="lg:hidden flex items-center space-x-3 mb-6">
                 <span className="material-symbols-outlined text-orange-600 text-4xl" style={{ fontVariationSettings: "'FILL' 1" }}>restaurant_menu</span>
-                <span className="text-2xl font-black tracking-tighter text-orange-600">MiniFood</span>
+                <span className="text-2xl font-black tracking-tighter text-orange-600">minifood</span>
               </div>
               <h2 className="text-3xl font-bold text-on-background">Đăng ký tài khoản</h2>
               <p className="text-base text-gray-600">Nhập thông tin cá nhân của bạn để tiếp tục</p>
@@ -193,7 +193,7 @@ const RegisterPage = () => {
                   onChange={handleChange}
                 />
                 <label className="text-sm text-gray-600" htmlFor="terms">
-                  Tôi đồng ý với <a className="text-orange-600 hover:underline" href="#">Điều khoản sử dụng</a> và <a className="text-orange-600 hover:underline" href="#">Chính sách bảo mật</a> của MiniFood.
+                  Tôi đồng ý với <a className="text-orange-600 hover:underline" href="#">Điều khoản sử dụng</a> và <a className="text-orange-600 hover:underline" href="#">Chính sách bảo mật</a> của minifood.
                 </label>
               </div>
               <button className="w-full bg-orange-600 text-white py-4 rounded-2xl font-semibold text-base shadow-lg shadow-orange-200 hover:bg-orange-700 transition-all active:scale-[0.98] mt-3" type="submit">
@@ -206,7 +206,7 @@ const RegisterPage = () => {
               </div>
             </form>
             <div className="mt-8 text-center">
-              <p className="text-xs text-gray-500">© 2026 MiniFood. Năng lượng cho ngày làm việc.</p>
+              <p className="text-xs text-gray-500">© 2026 minifood. Năng lượng cho ngày làm việc.</p>
             </div>
           </div>
         </div>
@@ -216,3 +216,4 @@ const RegisterPage = () => {
 };
 
 export default RegisterPage;
+

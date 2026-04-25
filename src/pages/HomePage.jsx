@@ -216,8 +216,8 @@ const HomePage = () => {
       <footer className="bg-gray-50 dark:bg-gray-950 border-t border-gray-200 dark:border-gray-800 mt-12">
         <div className="w-full py-8 px-6 flex flex-col md:flex-row justify-between items-center max-w-7xl mx-auto">
           <div className="mb-4 md:mb-0">
-            <span className="font-bold text-gray-700 dark:text-gray-300 text-xl">MiniFood</span>
-            <p className="text-xs text-gray-500 dark:text-gray-400 mt-2">© 2026 MiniFood. Tất cả quyền được bảo lưu.</p>
+            <span className="font-bold text-gray-700 dark:text-gray-300 text-xl">minifood</span>
+            <p className="text-xs text-gray-500 dark:text-gray-400 mt-2">© 2026 minifood. Tất cả quyền được bảo lưu.</p>
           </div>
           <div className="flex gap-6 flex-wrap justify-center">
             <a className="text-xs text-gray-500 hover:text-gray-900 transition-opacity duration-200 py-1" href="#">Hỗ trợ</a>
@@ -251,4 +251,5 @@ const HomePage = () => {
 };
 
 export default HomePage;
+
 
